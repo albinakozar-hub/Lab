@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Лабораторная работа по GitHub");
+﻿Console.WriteLine("Версия master");
 Console.WriteLine("Автор: Козырева Альбина");
 
 Console.WriteLine("Введите первое число: ");
