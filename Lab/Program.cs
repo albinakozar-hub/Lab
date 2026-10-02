@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Версия master");
+﻿Console.WriteLine("Версия master и AddFunction");
 Console.WriteLine("Автор: Козырева Альбина");
 
 Console.WriteLine("Введите первое число: ");
